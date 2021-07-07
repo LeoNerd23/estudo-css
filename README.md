@@ -21,6 +21,8 @@ ___
 Vamos separar em 2 grupos:
 `container` e `item(s)`
 
+---
+
 ### CONTAINER
 
 * ```display: grid;```
@@ -32,3 +34,17 @@ Vamos separar em 2 grupos:
   * ```grid-column-gap;```
 
 ... e mais 4 propriedades e **alinhamento**
+
+---
+
+## ITEM(s)
+
+* ```grid-column```
+  * ```grid-column-start```
+  * ````grid-column-end```
+* ```grid-row```
+  * ```grid-row-start```
+  * ````grid-row-end```
+* ````grid-area```
+
+ ... e mais 2 propriedades de **alinhamento**
