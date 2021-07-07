@@ -41,10 +41,10 @@ Vamos separar em 2 grupos:
 
 * ```grid-column```
   * ```grid-column-start```
-  * ````grid-column-end```
+  * ```grid-column-end```
 * ```grid-row```
   * ```grid-row-start```
-  * ````grid-row-end```
-* ````grid-area```
+  * ```grid-row-end```
+* ```grid-area```
 
  ... e mais 2 propriedades de **alinhamento**
