@@ -1,4 +1,4 @@
-![](https://w7.pngwing.com/pngs/934/246/png-transparent-cascading-style-sheets-html-css3-bootstrap-world-wide-web-blue-angle-web-design-thumbnail.png)
+![](https://diegomariano.com/wp-content/uploads/2020/08/logo-2582747_640-e1597771254582.png)
 
 # CSS GRID
 
